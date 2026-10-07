@@ -1,0 +1,13 @@
+PROPUESTA VISUAL RENTAS ONLINE · MAIPÚ MUNICIPIO
+
+Subir a GitHub todos los archivos manteniendo esta estructura:
+index.html
+manual-de-estilo.html
+img/logo-maipu.png
+img/logoblanco.png
+
+Abrir index.html para ver la propuesta. La carpeta img debe quedar junto al HTML. Los iconos de las tarjetas están escritos en SVG dentro del HTML y no necesitan fotos adicionales.
+
+Todos los enlaces municipales apuntan al dominio definitivo https://www.maipu.gob.ar/ con las rutas PHP de la nueva web aportada. Al ser un lanzamiento pendiente, esas rutas deberán habilitarse cuando se publique la nueva web. Las redes, teléfonos y WhatsApp conservan los enlaces del código municipal proporcionado.
+
+La demostración de Inmueble conserva datos ficticios y no inicia pagos. La empresa debe conectar consultas y pagos con su sistema real. Se requiere internet para descargar la fuente Inter y los iconos de header/footer.
